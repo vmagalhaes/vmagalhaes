@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there 👋 Welcome to a Front-End Developer profile.
 
-<!--
-**vmagalhaes/vmagalhaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨🏻‍🎓 System Information Bachelor degree
+- 🎨 FE new technologies enthusiast
+- 💛 JavaScript
 
-Here are some ideas to get you started:
+### Angular, React, Vue 🖱️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm currently learning about FE architecture.
+- 📫 How to reach me:
+  - Twitter: @alovmagalhaes
+  - Instagram: @ovictor.magalhaes
+  - LinkedIn: /in/victor-magalhaes
+
+### Hey hey hey
+
+- 🚦 Cypress
+- 🛤️ UX
+- 🧰 Node
