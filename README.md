@@ -1,5 +1,7 @@
 ### Hi there 👋 Welcome to a Front-End Developer profile.
 
+My name is Victor Magalhães, I'm from Brazil. I've been working with Front-End Development since 2014, currently, I'm working with Angular, but always studying others technologies to improve my experience, like React, Vue, Stelve. Be welcome to take a look at my profile! 
+
 - 👨🏻‍🎓 System Information Bachelor degree
 - 🎨 FE new technologies enthusiast
 - 💛 JavaScript
